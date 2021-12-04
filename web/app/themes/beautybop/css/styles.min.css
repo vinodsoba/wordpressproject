@@ -1,0 +1,24 @@
+.site-header {
+  position: relative;
+}
+
+.site-header ul#primary-menu-list li {
+  display: inline-flex;
+  position: absolute;
+  right: 0;
+  margin-right: 200px;
+  padding-right: 20px;
+}
+
+.menu-button-container {
+  display: none;
+}
+
+.site-title,
+.site-description {
+  display: none;
+}
+
+h1 {
+  color: #0014ff;
+}
